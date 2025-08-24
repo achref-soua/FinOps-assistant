@@ -23,7 +23,9 @@ A Streamlit-based FinOps tool to optimize costs and manage workloads on AWS EC2 
 
 #### EC2 Analysis Screenshots
 ![EC2 Discovery](screenshots/ec2_discovery.png)
+
 ![Graviton Suggestions](screenshots/ec2_graviton.png)
+
 ![Graviton Output Sample](screenshots/graviton_output_sample.png)
 
 ### RDS Reservation Insights
@@ -36,7 +38,9 @@ A Streamlit-based FinOps tool to optimize costs and manage workloads on AWS EC2 
 
 #### RDS Analysis Screenshots
 ![RDS Output Sample](screenshots/rds_output_sample.png)
+
 ![RDS Pricing](screenshots/rds_pricing.png)
+
 ![RDS Pricing Details](screenshots/rds_pricing_1.png)
 
 ---
